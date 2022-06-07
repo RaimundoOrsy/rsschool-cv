@@ -1,0 +1,9 @@
+button { 
+    background: linear-gradient(180deg, orange, rgb(241, 158, 3));
+    border-width: 1px;
+    border-color: rgb(255, 166, 0);
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 100%;
+    border-spacing: 5px;
+}
