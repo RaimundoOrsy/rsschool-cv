@@ -1,6 +1,6 @@
 # Den Demeshchik
 
-![Photo](/img/IMG_1014.JPG)
+![Photo](C:\Users\Krisa\OneDrive\Рабочий стол/IMG_1014.JPG)
 
 ## Junior Frontend Developer
 
