@@ -1,8 +1,6 @@
 # Den Demeshchik
 
-![Photo](C:/Users/Krisa/OneDrive/Рабочий стол/IMG_1014.JPG) 
-
-<img src="file:///C:/Users/Krisa/OneDrive/Рабочий стол/IMG_1014.JPG" />
+![Photo](https://sun9-87.userapi.com/s/v1/if1/qu-eq3AknZzofG8ukJ9bJgfcTGIuW46-1HoQ7av3hPyVjc7uY3CH5AXFUgydc0MGNE9AAepu.jpg?size=1678x2160&quality=96&type=album) 
 
 ## Junior Frontend Developer
 
