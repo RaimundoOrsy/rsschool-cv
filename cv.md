@@ -1,6 +1,6 @@
 # Den Demeshchik
 
-![Photo](/img/IMG_1014.JPG "Handsome")
+![Photo](/img/IMG_1014.JPG)
 
 ## Junior Frontend Developer
 
