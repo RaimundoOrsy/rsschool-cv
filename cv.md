@@ -1,5 +1,7 @@
 # Den Demeshchik
 
+![Photo](/img/IMG_1014.JPG "Handsome")
+
 ## Junior Frontend Developer
 
 ## Contact information:
@@ -10,7 +12,7 @@
 
 **GitHube**: [https://github.com/RaimundoOrsy](https://github.com/RaimundoOrsy)
 
-[LinkedIn](https://www.linkedin.com/in/den-demeshchik/)
+**LinkedIn**: [https://www.linkedin.com/in/den-demeshchik/] (https://www.linkedin.com/in/den-demeshchik/)
 
 # About Me
 
@@ -27,13 +29,8 @@ English- Intermideate (B2)
 
 # Skills
 
-* Create test plans and checklists;
-* Create bug-reports and testing reports;
-* File bugs in the Jira bug tracker;
-* Create basic SQL queries;
-* Test web-interfaces with DevTools Chrome;
-* Send requests to Postman (Get/Post/Put);
-* Know HTML & CSS.
+* Web-development: HTML5, CSS5, JavaScript
+* Version control: GIT, GitHub
 
 # Experience
 
